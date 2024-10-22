@@ -22,7 +22,7 @@ with st.sidebar:
     # Model selection dropdown
     model_choice = st.selectbox(
         "Choose a model for text generation:",
-        ["gpt2", "meta-llama/Llama-2-7b-chat-hf"]
+        ["gpt2", "meta-llama/Llama-2-13b-chat-hf"]
     )
 
     st.markdown('📖 Learn how to build this app in this [blog](https://blog.streamlit.io/how-to-build-an-llm-powered-chatbot-with-streamlit/)!')
