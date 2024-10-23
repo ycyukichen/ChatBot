@@ -1,6 +1,6 @@
 # 📦 Let's chat 
 
-ChatBot run by llama2. Modify the code from Streamlit App.
+Modify the code from Streamlit App.
 
 ## Demo App
 
